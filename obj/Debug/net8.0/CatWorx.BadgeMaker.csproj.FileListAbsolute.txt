@@ -20,3 +20,4 @@ C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.B
 C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
 C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
 C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx..0543816E.Up2Date
+C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\bin\Debug\net8.0\Newtonsoft.Json.dll
