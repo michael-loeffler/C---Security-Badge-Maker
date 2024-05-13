@@ -13,3 +13,10 @@ C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.B
 C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.genruntimeconfig.cache
 C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\ref\CatWorx.BadgeMaker.dll
 C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.sourcelink.json
+C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+C:\Users\etq4376\bootcamp\Coursework\Post Grad Continuation Courses\C#\CatWorx.BadgeMaker\obj\Debug\net8.0\CatWorx..0543816E.Up2Date
