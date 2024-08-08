@@ -80,9 +80,7 @@ namespace CatWorx.BadgeMaker
 
                     // Adds employee name
                     paint.Color = SKColors.Black;
-                    canvas.DrawText(employees[i].GetFullName(), BADGE_WIDTH / 2f,
-
-                    EMPLOYEE_NAME_Y, paint);
+                    canvas.DrawText(employees[i].GetFullName(), BADGE_WIDTH / 2f, EMPLOYEE_NAME_Y, paint);
 
                     // Adds ID number
                     paint.Typeface = SKTypeface.FromFamilyName("Courier New");
