@@ -4,7 +4,7 @@
 
 ## Description
 
-The Security Badge Maker is a command-line application created with C# that will allow users to quickly generate security badges for new employees aftering inputting employee information. This application serves as a quick and user-friendly way to generate a large number of security badges with minimal effort.
+The Security Badge Maker is a command-line application created with C# that will allow users to quickly generate security badges for new employees after inputting employee information. This application serves as a quick and user-friendly way to generate many security badges with minimal effort.
 
 Some of the key learning points include:
 
@@ -52,7 +52,7 @@ The Security Badge Maker functions as a command-line application. After followin
 Please review the [demonstration video](https://drive.google.com/file/d/12jQorTxnfoHV4q-s7QRMQ7tRWxJNaI8O/view?usp=sharing) to see how the app functions and experience the user perspective.
 
 ## Credits
-Some code blocks were supplied from EDX Coding Bootcamp continuation courseswork as this was a learning exercise.
+Some code blocks were supplied from EDX Coding Bootcamp continuation coursework as this was a learning exercise.
 
 Packages used:
   - .NET Core SDK
