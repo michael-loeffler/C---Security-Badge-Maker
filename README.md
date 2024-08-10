@@ -49,7 +49,7 @@ The Security Badge Maker functions as a command-line application. After followin
 
 ### --- Video demonstration of application's functionality ---
 
-Please review the [demonstration video](https://drive.google.com/file/d/12jQorTxnfoHV4q-s7QRMQ7tRWxJNaI8O/view?usp=sharing) to see how the app functions and experience the user perspective.
+Please review the [demonstration video](https://drive.google.com/file/d/12jQorTxnfoHV4q-s7QRMQ7tRWxJNaI8O/view?usp=sharing) to see how the app functions and experience the user perspective. Additionally, sample badges created using the application can be found in the "sampleBadges" folder in this repository.
 
 ## Credits
 Some code blocks were supplied from EDX Coding Bootcamp continuation coursework as this was a learning exercise.
