@@ -49,7 +49,10 @@ The Security Badge Maker functions as a command-line application. After followin
 
 ### --- Video demonstration of application's functionality ---
 
-Please review the [demonstration video](https://drive.google.com/file/d/12jQorTxnfoHV4q-s7QRMQ7tRWxJNaI8O/view?usp=sharing) to see how the app functions and experience the user perspective. Additionally, sample badges created using the application can be found in the ["sampleBadges"](https://github.com/michael-loeffler/CSharp-Security-Badge-Maker/tree/main/sampleBadges) folder in this repository.
+Please review the [demonstration video](https://drive.google.com/file/d/12jQorTxnfoHV4q-s7QRMQ7tRWxJNaI8O/view?usp=sharing) to see how the app functions and experience the user perspective.<br/>
+Additionally, I have included a sample badge created using the application below:
+
+<img src="./sample_badge.png" height="400" />
 
 ## Credits
 Some code blocks were supplied from EDX Coding Bootcamp continuation coursework as this was a learning exercise.
@@ -58,7 +61,7 @@ Packages used:
   - .NET Core SDK
   - dotnet
   - SkiaSharp
-  - Place Kitten
+  - Place Kitten/Place Dog
   - Random User Generator API
   - Newtonsoft.Json
 
